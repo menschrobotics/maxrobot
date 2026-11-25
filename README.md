@@ -65,10 +65,10 @@ MAX ROBOT ECOSYSTEM
 | **Repository**           | **Description**                                    |
 | ------------------------ | -------------------------------------------------- |
 | `maxrobot`               | Central project overview and ecosystem resources   |
-| `maxrobot_setup`         | Raspberry Pi installation and configuration        |
+| [maxrobot_setup](https://github.com/menschrobotics/maxrobot_setup)         | Raspberry Pi installation and configuration        |
 | [maxrobot_hardware](https://github.com/menschrobotics/maxrobot_hardware)      | Hardware architecture, components, and connections |
 |[maxrobot_communication](https://github.com/menschrobotics/maxrobot_communication) | Communication architecture and data exchange between computing and control units             |
-| `maxrobot_bluetooth`     | Bluetooth communication and connectivity           |
+| [maxrobot_bluetooth](https://github.com/menschrobotics/maxrobot_bluetooth)     | Bluetooth communication and connectivity           |
 
 *Supporting repositories and their documentation will be added as development progresses.*
 
