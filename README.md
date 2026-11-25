@@ -23,7 +23,7 @@ The platform brings together:
 - Display and voice interaction
 - Robotics programming and AI-based applications
 
-## 🤖 Platform Configurations
+##  Platform Configurations
 
 MAX supports multiple configurations and modules to suit different robotics applications and development requirements.
 
@@ -37,7 +37,7 @@ MAX supports multiple configurations and modules to suit different robotics appl
 
 These configurations offer different ways to explore, customise, and develop applications using the MAX platform.
 
-## 🏗️ Ecosystem Architecture
+##  Ecosystem Architecture
 
 The MAX ecosystem is organised into one central repository and four supporting repositories, each dedicated to a specific area of the platform.
 ```
@@ -72,7 +72,7 @@ MAX ROBOT ECOSYSTEM
 
 *Supporting repositories and their documentation will be added as development progresses.*
 
-## ⚙️ Development Scope
+##  Development Scope
 
 | **Development Area** | **Focus**                                   |
 | -------------------- | ------------------------------------------- |
@@ -81,7 +81,7 @@ MAX ROBOT ECOSYSTEM
 | **Connectivity**     | Bluetooth communication and connectivity    |
 | **Motor Control**    | Motor operation and robot movement          |
 
-## 🗺️ Development Roadmap
+##  Development Roadmap
 
 The proposed development roadmap includes the following stages:
 
@@ -93,7 +93,7 @@ The proposed development roadmap includes the following stages:
 - [ ] Organise motor operation and movement-control programs
 - [ ] Expand the ecosystem with examples and development resources
 
-## 🚀 Future Development
+##  Future Development
 
 The MAX ecosystem can be expanded with additional resources and capabilities, including:
 
@@ -105,7 +105,7 @@ The MAX ecosystem can be expanded with additional resources and capabilities, in
 - Sample projects
 - Community contributions
 
-## 🤝 Contributing
+##  Contributing
 
 MAX aims to encourage collaboration, experimentation, and innovation in robotics development.
 
