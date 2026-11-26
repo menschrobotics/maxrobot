@@ -44,19 +44,22 @@ The MAX ecosystem is organised into one central repository and four supporting r
 MAX ROBOT ECOSYSTEM
 │
 ├── maxrobot
-│   └── Central project repository
+│   └── Central project overview and ecosystem resources (You are here!)
 │
 ├── maxrobot_setup
-│   └── Raspberry Pi installation and configuration
+│   └── Computing platform setup, software installation, and configuration
+│
+├── maxrobot_intelligence
+│   └── AI-powered application software, intelligent interaction, and AI integration
 │
 ├── maxrobot_hardware
 │   └── Hardware architecture, components, connections, and communication interfaces
 │
-├── maxrobot_bluetooth
-│   └── Bluetooth communication and connectivity
+├── maxrobot_communication
+│   └── Communication architecture and data exchange between computing and control units
 │
-└── maxrobot_motor_control
-    └── Motor operation, movement, and control
+└── maxrobot_bluetooth
+    └── Bluetooth communication and connectivity
 
 ```
 
@@ -66,6 +69,7 @@ MAX ROBOT ECOSYSTEM
 | ------------------------ | -------------------------------------------------- |
 | `maxrobot`               | Central project overview and ecosystem resources   |
 | [maxrobot_setup](https://github.com/menschrobotics/maxrobot_setup)         | Raspberry Pi installation and configuration        |
+| [maxrobot_intelligence](https://github.com/menschrobotics/maxrobot_intelligence) | AI-powered application software, intelligent interaction, and AI integration |
 | [maxrobot_hardware](https://github.com/menschrobotics/maxrobot_hardware)      | Hardware architecture, components, and connections |
 |[maxrobot_communication](https://github.com/menschrobotics/maxrobot_communication) | Communication architecture and data exchange between computing and control units             |
 | [maxrobot_bluetooth](https://github.com/menschrobotics/maxrobot_bluetooth)     | Bluetooth communication and connectivity           |
