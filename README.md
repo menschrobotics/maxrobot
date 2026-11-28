@@ -127,6 +127,11 @@ Potential areas for contribution include:
 
 Contribution guidelines and development workflows will be established as the ecosystem evolves.
 
+## License
+
+This project is licensed under the **Apache License 2.0**.
+
+
 ## 🏢 Maintained By
 
 **Team Mensch Robotics Private Limited**
